@@ -1,6 +1,5 @@
 <?php include 'header.php'?>
 <?php
-
  if(isset($_POST['Name']))
 {//data is submitted show it
     //echo $_POST['FirstName'];
